@@ -1,0 +1,3 @@
+'.feature':
+  'editor':
+    'increaseIndentPattern': '^\\s*.*(:|-)\\s*.*?$'
