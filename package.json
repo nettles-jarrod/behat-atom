@@ -1,6 +1,6 @@
 {
   "name": "behat-atom",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Adds Behat support to Atom.",
   "repository": "https://github.com/Blackshawk/behat-atom",
   "license": "MIT",
