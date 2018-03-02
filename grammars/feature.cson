@@ -37,6 +37,22 @@
     'name': 'string.other.feature'
   }
   {
+    'begin': '^\\s*\\\"\"\"'
+    'end': '\\\"\"\"$'
+    'name': 'string.other.feature'
+    'patterns': [
+        {
+            'include': 'source.html'
+        },
+        {
+            'include': 'source.json'
+        },
+        {
+            'include': 'source.xml'
+        }
+    ] 
+  }
+  {
     'begin': '"'
     'end': '"'
     'name': 'string.interpolated.feature'
